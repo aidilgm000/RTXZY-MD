@@ -226,7 +226,7 @@ conn.logger.level = 'debug'
  
  [`Verdi`](https://wa.me/6285706735450)
  
- [`Radhin`](https://wa.me/6282373158947)
+ [`Radhin`](https://github.com/aidilgm000/RTXZY-MD. )
 
 ##### Contributors
 <a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) 
