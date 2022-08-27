@@ -75,7 +75,7 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/RTXZY-MD
+> git clone https://github.com/aidilgm000/RTXZY-MD
 > cd RTXZY-MD
 > npm i
 > node index.js
